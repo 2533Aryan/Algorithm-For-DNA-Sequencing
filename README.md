@@ -5,3 +5,5 @@ This course introduces computational methods -- algorithms and data structures -
 This course roughly follows topics covered in the textbook Algorithms for Next-Generation Sequencing Data: Techniques, Approaches, and Applications by Mourad Elloumi.
 
 Overview:
+
+- DNA sequencing, strings, and matching
