@@ -7,3 +7,5 @@ This course roughly follows topics covered in the textbook Algorithms for Next-G
 Overview:
 
 - DNA sequencing, strings, and matching
+
+- Preprocessing, indexing, and approximate matching
