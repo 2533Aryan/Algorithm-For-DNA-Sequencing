@@ -11,3 +11,6 @@ Overview:
 - Preprocessing, indexing, and approximate matching
 
 - Edit distance, assembly, overlap
+
+- Algorithms for assembly
+
