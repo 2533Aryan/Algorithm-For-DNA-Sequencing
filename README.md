@@ -9,3 +9,5 @@ Overview:
 - DNA sequencing, strings, and matching
 
 - Preprocessing, indexing, and approximate matching
+
+- Edit distance, assembly, overlap
