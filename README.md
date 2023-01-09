@@ -17,3 +17,5 @@ Overview:
 
 
 This course roughly follows topics covered in the textbook Algorithms for Next-Generation Sequencing Data: Techniques, Approaches, and Applications by Mourad Elloumi.
+
+Add some more
