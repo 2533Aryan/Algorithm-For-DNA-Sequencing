@@ -8,7 +8,7 @@ We will use Python to implement key algorithms and data structures and to analyz
 
 - DNA sequencing, strings, and matching.
 
-- Preprocessing, indexing, and approximate matching
+- Preprocessing, indexing, and approximate matching.
 
 - Edit distance, assembly, overlap
 
