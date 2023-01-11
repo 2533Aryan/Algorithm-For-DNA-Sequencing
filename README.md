@@ -10,7 +10,7 @@ We will use Python to implement key algorithms and data structures and to analyz
 
 - Preprocessing, indexing, and approximate matching.
 
-- Edit distance, assembly, overlap
+- Edit distance, assembly, overlap.
 
 - Algorithms for assembly
 
