@@ -12,7 +12,8 @@ We will use Python to implement key algorithms and data structures and to analyz
 
 - Edit distance, assembly, overlap.
 
-- Algorithms for assembly
+- Algorithms for assembly.
 
 
 This course roughly follows topics covered in the textbook Algorithms for Next-Generation Sequencing Data: Techniques, Approaches, and Applications by Mourad Elloumi.
+
